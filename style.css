@@ -4,3 +4,7 @@
 .h-font{
     font-family: 'Otomanopee One', sans-serif;
 }
+section{
+   display: flex;
+    
+}
